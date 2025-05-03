@@ -9,7 +9,7 @@ git clone …
 
 - FE : https://github.com/DANGKHOA6824/FE_JOB
 - BE : https://github.com/DANGKHOA6824/BE_Job
-- Database : dumpdata.sql
+- Database : file dumpdata.sql
 - tạo folder upload cùng cấp với folder JobBE
 BE : trong file application.properties dòng 33 : thay dổi đường dẫn chứa folder upload sau khi clone code từ git hub về  
 vd : file:///E:/volume/vvvv/upload/
